@@ -1,0 +1,46 @@
+[
+    {
+        "Id": 100,
+        "Naziv": "Xiaomi 12 Pro 5G",
+        "Proizvodac": "Xiaomi",
+        "Model": "12 Pro",
+        "Cijena": 2700,
+        "Kolicina": 1
+    },
+
+    {
+        "Id": 101,
+        "Naziv": "Samsung Galaxy A22",
+        "Proizvodac": "Samsung",
+        "Model": "Galaxy A22",
+        "Cijena": 1600,
+        "Kolicina": 2
+    },
+
+    {
+        "Id": 102,
+        "Naziv": "Slusalice Philips",
+        "Proizvodac": "Philips",
+        "Model": "TAT2236GR",
+        "Cijena": 300,
+        "Kolicina": 0
+    },
+
+    {
+        "Id": 103,
+        "Naziv": "Sat Denver",
+        "Proizvodac": "Denver",
+        "Model": "SW-360",
+        "Cijena": 1260,
+        "Kolicina": 2
+    },
+
+    {
+        "Id": 104,
+        "Naziv": "Punjac Samsung",
+        "Proizvodac": "Samsung",
+        "Model": "EP-TA22",
+        "Cijena": 150,
+        "Kolicina": 2
+    }
+]
